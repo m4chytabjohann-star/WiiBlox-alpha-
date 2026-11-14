@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<app version="1">
+    <name>WiiBlox</name>
+    <coder>Nintuser</coder>
+    <version>1.0</version>
+    <short_description>Powering Imagination™</short_description>
+    <long_description>WiiBlox is a port of 2016 Roblox for the wii, inspired by the Xbox One version.</long_description>
+    <no_ios_reload/>
+</app>
